@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@pnpm/directory-fetcher": "1000.0.5"
+  }
+}
